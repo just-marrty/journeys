@@ -1,0 +1,327 @@
+[
+    {
+        "id": "2025-01-20-BER",
+        "name": "Berlin Wall History Tour",
+        "description": "Dive into Cold War stories and street art.",
+        "sub_description": "Berlin, Germany's capital, rose from medieval trading roots to become Prussia's heart in the 18th century. Devastated in WWII and divided by the infamous Wall from 1961 to 1989, the city symbolized Cold War tensions. After reunification, Berlin transformed into a vibrant cultural hub, blending historic landmarks like Brandenburg Gate with cutting-edge art scenes. Today it stands as a testament to resilience, creativity, and freedom, attracting millions with its museums, nightlife, and startup energy. The city's rebirth has been remarkable, with neighborhoods like Kreuzberg and Friedrichshain becoming centers of alternative culture and innovation. Berlin now hosts world-class universities, technology companies, and artistic communities that shape European trends. Its affordable living costs compared to other capitals have drawn young professionals and creatives from across the globe, making it one of Europe's most dynamic and multicultural metropolises.",
+        "duration": "3 days",
+        "price": 540,
+        "image": "berlin",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Berlin",
+                "activity": "Arrival and Checkpoint Charlie visit."
+            },
+            {
+                "day": 2,
+                "location": "Berlin",
+                "activity": "East Side Gallery exploration."
+            },
+            {
+                "day": 3,
+                "location": "Berlin",
+                "activity": "Museum tour and departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-02-07-EGY",
+        "name": "Egypt Pyramid Expedition",
+        "description": "Explore pyramids, deserts and ancient rituals.",
+        "sub_description": "Egypt's history spans over 5,000 years, beginning with the pharaohs who built the iconic pyramids and temples along the Nile. Ancient Egypt was a center of innovation, art, and religion, later absorbed by Greek, Roman, and Islamic empires. In the 20th century, Egypt gained independence and became a modern republic. Today, Cairo bustles with life while Giza and Luxor preserve monumental legacies. Egypt remains a bridge between Africa and the Middle East, drawing travelers to its timeless wonders and rich cultural tapestry. The discovery of Tutankhamun's tomb in 1922 sparked worldwide fascination with Egyptian archaeology. Modern Egypt balances preservation of ancient sites with rapid urbanization and population growth. The Suez Canal remains a vital global shipping route, while tourism continues to be a cornerstone of the economy. Despite political challenges, Egypt's cultural influence through cinema, literature, and music resonates throughout the Arab world, maintaining its position as a regional powerhouse.",
+        "duration": "5 days",
+        "price": 1800,
+        "image": "egypt",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Cairo",
+                "activity": "Arrival and Nile dinner."
+            },
+            {
+                "day": 2,
+                "location": "Giza",
+                "activity": "Great Pyramid entry."
+            },
+            {
+                "day": 3,
+                "location": "Sahara Edge",
+                "activity": "Camel desert safari."
+            },
+            {
+                "day": 4,
+                "location": "Luxor",
+                "activity": "Temple of Karnak."
+            },
+            {
+                "day": 5,
+                "location": "Cairo",
+                "activity": "Departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-03-19-BKK",
+        "name": "Bangkok Street Food Tour",
+        "description": "Taste the chaos, spice and night markets.",
+        "sub_description": "Bangkok, Thailand's capital, began as a small trading post before King Rama I established it as the royal seat in 1782. The city flourished under the Chakri dynasty, blending traditional Thai culture with influences from China and the West. It escaped colonization, maintaining sovereignty through diplomacy. Post-WWII, Bangkok rapidly modernized into a bustling metropolis. Today, golden temples stand beside skyscrapers, tuk-tuks navigate chaotic streets, and night markets overflow with food and energy. Bangkok embodies Thailand's spirit—dynamic, flavorful, and endlessly welcoming to visitors worldwide. The city has become Southeast Asia's transportation hub and a global tourism hotspot, welcoming over 20 million visitors annually. Its street food culture is recognized by UNESCO, while luxury malls and rooftop bars cater to affluent travelers. Bangkok's film industry, fashion scene, and medical tourism sector have grown exponentially, positioning it as a regional trendsetter that seamlessly merges ancient traditions with contemporary lifestyle innovations.",
+        "duration": "3 days",
+        "price": 420,
+        "image": "bangkok",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Bangkok",
+                "activity": "Arrival and first market snack."
+            },
+            {
+                "day": 2,
+                "location": "Bangkok",
+                "activity": "Guided street food feast."
+            },
+            {
+                "day": 3,
+                "location": "Bangkok",
+                "activity": "Floating market and departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-04-24-SFO",
+        "name": "San Francisco Golden Tour",
+        "description": "Bridges, fog and startup culture vibes.",
+        "sub_description": "San Francisco was founded as a Spanish mission in 1776, but exploded during the 1849 Gold Rush, becoming a wild boomtown. Rebuilt after the catastrophic 1906 earthquake, the city evolved into a cultural and progressive icon. The 1960s brought counterculture movements, while the late 20th century saw the rise of Silicon Valley nearby. Today, San Francisco is a tech and innovation capital, famous for the Golden Gate Bridge, steep hills, diverse neighborhoods, and fog. It remains a beacon of creativity, activism, and forward-thinking enterprise on the Pacific coast. The city's role in LGBTQ+ rights movements has been transformative, particularly following the Stonewall era. San Francisco continues to grapple with housing affordability and homelessness while maintaining its reputation for environmental leadership and social justice. Its food scene rivals any global city, and its proximity to wine country, beaches, and mountains makes it a lifestyle destination that attracts entrepreneurs, artists, and dreamers seeking to change the world.",
+        "duration": "4 days",
+        "price": 950,
+        "image": "sanfrancisco",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "San Francisco",
+                "activity": "Arrival and Fisherman's Wharf."
+            },
+            {
+                "day": 2,
+                "location": "San Francisco",
+                "activity": "Golden Gate Bridge walk."
+            },
+            {
+                "day": 3,
+                "location": "Silicon Valley",
+                "activity": "Tech headquarters visit."
+            },
+            {
+                "day": 4,
+                "location": "San Francisco",
+                "activity": "Departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-05-02-LAX",
+        "name": "Los Angeles Palm Tour",
+        "description": "Hollywood signs, beaches, cocktails.",
+        "sub_description": "Los Angeles began as a Spanish pueblo in 1781, growing slowly until the arrival of railroads in the 1880s. The early 20th century brought Hollywood, transforming LA into the entertainment capital of the world. Post-WWII sprawl created a car-centric megalopolis of beach towns, hills, and urban centers. Despite challenges like earthquakes and social tensions, LA thrived as a cultural melting pot. Today, it's a global influencer in film, music, fashion, and tech, where palm-lined boulevards, celebrity culture, and diverse communities create an electric, sun-soaked atmosphere. The city hosts the world's busiest origin and destination airport and remains the creative engine for global entertainment. LA's culinary scene reflects its incredible diversity, with authentic cuisines from every continent. The rise of Silicon Beach has established the city as a tech hub rivaling San Francisco. From Venice's bohemian boardwalk to Beverly Hills' opulence, LA offers endless contrasts that define the California dream and American pop culture itself.",
+        "duration": "5 days",
+        "price": 1100,
+        "image": "hollywood",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Los Angeles",
+                "activity": "Arrival and Santa Monica."
+            },
+            {
+                "day": 2,
+                "location": "Los Angeles",
+                "activity": "Hollywood sign hike."
+            },
+            {
+                "day": 3,
+                "location": "Los Angeles",
+                "activity": "Venice Beach tour."
+            },
+            {
+                "day": 4,
+                "location": "Malibu",
+                "activity": "Surf class."
+            },
+            {
+                "day": 5,
+                "location": "Los Angeles",
+                "activity": "Departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-06-17-IST",
+        "name": "Istanbul Empire Tour",
+        "description": "Mosques, bazaars and Bosphorus night vibes.",
+        "sub_description": "Istanbul, once called Byzantium and later Constantinople, was the capital of the Roman, Byzantine, and Ottoman empires for over 1,600 years. Founded by Greeks in 660 BCE, it became Christianity's heart before falling to the Ottomans in 1453, who transformed it into an Islamic center. The city's strategic position bridging Europe and Asia made it a crossroads of trade, culture, and power. Today, Istanbul is Turkey's largest city, where minarets and domes punctuate the skyline, bazaars bustle with life, and the Bosphorus Strait shimmers with history and modernity intertwined. The city has survived earthquakes, fires, and political upheavals while maintaining its unique character. Modern Istanbul is a thriving metropolis of over 15 million people, blending Ottoman heritage with contemporary Turkish culture. Its culinary traditions influence cuisines worldwide, while its strategic location continues to make it a vital economic and cultural bridge. Istanbul's vibrant arts scene, historic hammams, and legendary hospitality ensure it remains one of the world's most captivating destinations.",
+        "duration": "4 days",
+        "price": 780,
+        "image": "istanbul",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Istanbul",
+                "activity": "Arrival and Turkish coffee."
+            },
+            {
+                "day": 2,
+                "location": "Istanbul",
+                "activity": "Hagia Sophia visit."
+            },
+            {
+                "day": 3,
+                "location": "Istanbul",
+                "activity": "Bosphorus dinner cruise."
+            },
+            {
+                "day": 4,
+                "location": "Istanbul",
+                "activity": "Grand Bazaar and departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-07-05-ICE",
+        "name": "Iceland Fire & Ice Tour",
+        "description": "Volcanoes by day, hot springs by night.",
+        "sub_description": "Iceland was settled by Norse Vikings around 874 CE, who established one of the world's oldest parliaments at Þingvellir. For centuries, it remained under Norwegian and Danish rule, enduring harsh conditions and volcanic eruptions. Independence came in 1944, and Iceland transformed into a modern democracy with high living standards. Its dramatic landscape—shaped by glaciers, geysers, and active volcanoes—reflects the island's position on the Mid-Atlantic Ridge. Today, Reykjavík is a vibrant capital, and Iceland attracts adventurers seeking raw natural beauty, renewable energy innovation, and the magical northern lights above stark, stunning horizons. The country leads the world in geothermal energy utilization and environmental sustainability. Iceland's literary tradition, dating back to medieval sagas, remains strong in contemporary culture. Despite having only 380,000 residents, Iceland has produced internationally acclaimed musicians, writers, and filmmakers. The tourism boom of the past decade has brought economic prosperity while raising questions about preservation. Iceland's blend of ancient traditions, progressive values, and otherworldly landscapes makes it utterly unique.",
+        "duration": "6 days",
+        "price": 2300,
+        "image": "iceland",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Reykjavík",
+                "activity": "Arrival and hot spring intro."
+            },
+            {
+                "day": 2,
+                "location": "Reykjavík",
+                "activity": "City exploration."
+            },
+            {
+                "day": 3,
+                "location": "Volcano Route",
+                "activity": "Active volcano sightseeing."
+            },
+            {
+                "day": 4,
+                "location": "Glacier Area",
+                "activity": "Ice caves and snowmobile ride."
+            },
+            {
+                "day": 5,
+                "location": "Aurora Camp",
+                "activity": "Northern lights night watching."
+            },
+            {
+                "day": 6,
+                "location": "Reykjavík",
+                "activity": "Departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-08-11-CPT",
+        "name": "Cape Town Adventure",
+        "description": "Safari boost and coastal wildlife.",
+        "sub_description": "Cape Town's history began with indigenous Khoisan people before Dutch colonists arrived in 1652, establishing a supply station. The British took control in the early 19th century, and Cape Town became central to South Africa's colonial and apartheid struggles. Nelson Mandela was imprisoned nearby on Robben Island for 18 years. Since apartheid ended in 1994, Cape Town has blossomed into a cosmopolitan hub of culture, cuisine, and natural wonders. Table Mountain overlooks stunning beaches, vineyards, and townships. Today, it's Africa's most visited city, celebrated for diversity, resilience, and breathtaking landscapes. The city has become a global destination for wine tourism, with nearby Stellenbosch and Franschhoek producing world-class vintages. Cape Town's design scene, from fashion to architecture, draws international attention. The city grapples with water scarcity and inequality while pioneering urban sustainability solutions. Its beaches, mountains, and wildlife create an unparalleled urban setting. Cape Town represents the new South Africa—complex, beautiful, and full of promise for reconciliation and growth.",
+        "duration": "5 days",
+        "price": 1950,
+        "image": "capetown",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Cape Town",
+                "activity": "Arrival with ocean sunset."
+            },
+            {
+                "day": 2,
+                "location": "Cape Town",
+                "activity": "Table Mountain cable car."
+            },
+            {
+                "day": 3,
+                "location": "Safari Zone",
+                "activity": "Big 5 safari tour."
+            },
+            {
+                "day": 4,
+                "location": "Penguin Beach",
+                "activity": "Wild penguin reserve."
+            },
+            {
+                "day": 5,
+                "location": "Cape Town",
+                "activity": "Departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-09-28-THA",
+        "name": "Thailand Jungle Route",
+        "description": "Tropical forests and river temples.",
+        "sub_description": "Chiang Mai was founded in 1296 as the capital of the Lanna Kingdom, a powerful northern Thai realm known for its unique culture and architecture. For centuries, it remained semi-independent, blending Buddhist traditions with local customs. In the 20th century, Chiang Mai integrated into modern Thailand while preserving its heritage. Surrounded by misty mountains and lush jungles, the city became a gateway for trekking and temple exploration. Today, Chiang Mai balances ancient temples, vibrant night markets, and a growing digital nomad scene, offering a serene yet adventurous alternative to bustling Bangkok. The city's famous lantern festivals attract thousands annually, creating magical displays across the night sky. Chiang Mai's artisan communities produce traditional crafts, from umbrella painting to silverwork, keeping ancient techniques alive. The surrounding region offers elephant sanctuaries, hill tribe villages, and some of Thailand's best coffee plantations. As a UNESCO Creative City, Chiang Mai champions sustainable tourism while maintaining authentic cultural experiences that transport visitors to traditional Northern Thailand.",
+        "duration": "6 days",
+        "price": 1250,
+        "image": "thailand",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Chiang Mai",
+                "activity": "Arrival and thai dinner."
+            },
+            {
+                "day": 2,
+                "location": "Jungle Route",
+                "activity": "Forest hike."
+            },
+            {
+                "day": 3,
+                "location": "River Temple",
+                "activity": "Temple by boat."
+            },
+            {
+                "day": 4,
+                "location": "Jungle Camp",
+                "activity": "Sleep in forest lodge."
+            },
+            {
+                "day": 5,
+                "location": "Chiang Mai",
+                "activity": "Local market."
+            },
+            {
+                "day": 6,
+                "location": "Chiang Mai",
+                "activity": "Departure."
+            }
+        ]
+    },
+    {
+        "id": "2025-10-31-SLM",
+        "name": "Salem Witch Walk",
+        "description": "Haunted stories and night rituals.",
+        "sub_description": "Salem, Massachusetts, was founded by Puritans in 1626 and became a prosperous seaport. Its dark fame stems from the 1692 witch trials, when hysteria led to the execution of 20 people accused of witchcraft—a tragic episode in colonial American history. The trials left a lasting mark, prompting reflections on justice and fear. By the 19th century, Salem thrived in maritime trade and industry. Today, it embraces its eerie legacy, especially around Halloween, attracting visitors to historic sites, museums, and haunted tours that explore both the supernatural and the sobering lessons of its past. The city preserves remarkable colonial architecture and operates several museums dedicated to maritime history and witch trial remembrance. Author Nathaniel Hawthorne, born in Salem, drew inspiration from the city's dark history for his gothic literature. Modern Salem balances tourism with residential life, hosting year-round cultural events beyond October's festivities. The city serves as an important reminder of the dangers of mass hysteria, religious extremism, and the persecution of marginalized individuals throughout history.",
+        "duration": "2 days",
+        "price": 380,
+        "image": "salem",
+        "itinerary": [
+            {
+                "day": 1,
+                "location": "Salem",
+                "activity": "Arrival and Witch House night."
+            },
+            {
+                "day": 2,
+                "location": "Salem",
+                "activity": "Cemetery legends and departure."
+            }
+        ]
+    }
+]
