@@ -13,13 +13,18 @@ struct TitleView: View {
     
     var body: some View {
         HStack {
-            // NameView
-            JourneyNameView(journey: journey)
+            Text(journey.name)
+                .font(.system(size: 18))
+                .bold()
             
             Spacer()
             
-            // DurationView
-            DurationView(journey: journey)
+            VStack {
+                Text("Duration:")
+                    .font(.system(size: 16))
+                Text("\(journey.duration)")
+                    .font(.subheadline)
+            }
         }
         .padding(.horizontal)
     }

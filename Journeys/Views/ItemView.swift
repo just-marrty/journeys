@@ -13,11 +13,19 @@ struct ItemView: View {
     
     var body: some View {
         HStack(alignment: .top) {
-            // ItemImageView
-            ItemImageView(journey: journey)
+            Image(journey.image)
+                .resizable()
+                .scaledToFit()
+                .clipShape(.rect(cornerRadius: 12))
+                .frame(width: 75)
             
-            // JourneyDurationView
-            ItemNameDurationView(journey: journey)
+            VStack(alignment: .leading) {
+                Text(journey.name)
+                    .font(.system(size: 18))
+                
+                Text("Duration: \(journey.duration)")
+                    .font(.subheadline)
+            }
         }
     }
 }

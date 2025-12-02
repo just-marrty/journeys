@@ -17,7 +17,7 @@ struct JourneyView: View {
         ScrollView {
             VStack {
                 // ImageView
-                JourneyImageView(journey: journey)
+                ImageView(journey: journey)
                 
                 // TitleView
                 TitleView(journey: journey)
