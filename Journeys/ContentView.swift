@@ -43,6 +43,7 @@ struct ContentView: View {
                     .font(.system(size: 20))
                     .foregroundStyle(isDarkMode ? .white : .black)
             }))
+            .scrollIndicators(.hidden)
         }
         .preferredColorScheme(isDarkMode ? .dark : .light)
     }

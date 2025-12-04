@@ -47,6 +47,7 @@ struct JourneyView: View {
                 }
             }
         }
+        .scrollIndicators(.hidden)
     }
 }
 
