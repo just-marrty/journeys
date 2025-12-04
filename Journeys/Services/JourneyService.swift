@@ -26,4 +26,14 @@ class JourneyService {
             }
         }
     }
+    
+    func search(for searchTherm: String) -> [Journey] {
+        if searchTherm.isEmpty {
+            return journeysData
+        } else {
+            return journeysData.filter { journey in
+                journey.name.localizedCaseInsensitiveContains(searchTherm)
+            }
+        }
+    }
 }

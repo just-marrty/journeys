@@ -11,8 +11,11 @@ struct ContentView: View {
     
     @AppStorage("isDarkMode") private var isDarkMode: Bool = false
     
-    @State private var search: String = ""
-    @State private var filteredJourneys: [Journey] = []
+    @State private var searchText: String = ""
+    
+    var filteredJourneys: [Journey] {
+        return journeyService.search(for: searchText)
+    }
     
     let journeyService = JourneyService()
     
@@ -26,20 +29,8 @@ struct ContentView: View {
                     }
                 }
                 .listStyle(.plain)
-                .searchable(text: $search)
-                .animation(.default, value: search)
-                .onChange(of: search) {
-                    if search.isEmpty {
-                        filteredJourneys = journeyService.journeysData
-                    } else {
-                        filteredJourneys = journeyService.journeysData.filter { journey in
-                            journey.name.localizedCaseInsensitiveContains(search)
-                        }
-                    }
-                }
-                .onAppear {
-                    filteredJourneys = journeyService.journeysData
-                }
+                .searchable(text: $searchText, prompt: "Search journey")
+                .animation(.default, value: searchText)
             }
             .navigationTitle("Journeys")
             .navigationDestination(for: Journey.self) { journey in
