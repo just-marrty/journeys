@@ -13,16 +13,12 @@ struct ContentView: View {
     
     @State private var searchText: String = ""
     
-    var filteredJourneys: [Journey] {
-        return journeyService.search(for: searchText)
-    }
-    
     let journeyService = JourneyService()
     
     var body: some View {
         NavigationStack {
             VStack {
-                List(filteredJourneys) { journey in
+                List(journeyService.search(for: searchText)) { journey in
                     NavigationLink(value: journey) {
                         // ItemView
                         ItemView(journey: journey)
